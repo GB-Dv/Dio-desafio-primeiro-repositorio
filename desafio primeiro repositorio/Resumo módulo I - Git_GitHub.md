@@ -10,7 +10,7 @@
 
 
 
-##### 	Criando um repositório no Git e o conectando com o GitHub
+#### Criando um repositório no Git e o conectando com o GitHub
 
 1. git init - inicia repositório;
 
@@ -24,7 +24,7 @@
 
 
 
-##### Outros comandos relevantes
+#### Outros comandos relevantes
 
 * git clone + url - irá criar um clone do repositório global selecionado, para repositório local
 * git pull - irá "puxar" os arquivos do repositório global para o local, podendo assim identificar possíveis conflitos entre versões dos arquivos
